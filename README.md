@@ -1,0 +1,2 @@
+# arac
+lazım olan araclar
